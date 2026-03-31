@@ -1,13 +1,10 @@
 [
   {"r": 1, "n": "ArchPear", "tiers": [
-    "HT1","HT2"
+    "icon=axe|LT3","icon=mace|LT3"
     ]
   },
   {"r": 2, "n": "Aqua", "tiers": [
-    "HT1","HT2"
+    "icon=axe|LT2"
   ]
-  },
-  {"r": 3, "n": "prodrayu", "tiers": [
-    "HT1","HT2"
-  ]}
+  }
 ]
